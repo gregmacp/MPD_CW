@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MPD_CW</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="gregtag">Greg MacPherson S1509595</string>
+    <string name="nav_header_subtitle">GMACPH200@caledonian.ac.uk</string>
+    <string name="google_maps_key">AIzaSyD7CdWnIq8gapOoiGmVRujY1xoYG0Wwbp0</string>
+</resources>
